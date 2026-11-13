@@ -21,7 +21,7 @@ Needs JDK 17 and the Android SDK (platform 35, build-tools 35). Put the SDK path
 ./gradlew check                    # tests, lint and the no-network check
 ```
 
-APKs land in `app/build/outputs/apk/<flavour>/<type>/`. Debug builds install as `io.github.jrtutts.looseleaf.debug`, next to a release build. Release builds are minified and unsigned (F-Droid signs its own builds).
+APKs land in `app/build/outputs/apk/<flavour>/<type>/`. Debug builds install as `io.github.jrtutts_web.looseleaf.debug`, next to a release build. Release builds are minified and unsigned (F-Droid signs its own builds).
 
 | Flavour | What it is | Release size |
 |---|---|---|
@@ -31,7 +31,7 @@ APKs land in `app/build/outputs/apk/<flavour>/<type>/`. Debug builds install as 
 ## Where everything lives
 
 ```
-app/src/main/kotlin/io/github/jrtutts/looseleaf/
+app/src/main/kotlin/io/github/jrtutts_web/looseleaf/
   MainActivity.kt        receives "Open with" and "Share" intents
   AppViewModel.kt        opens files (and asks for passwords), owns the open document, offers unsaved edits again
   LooseLeafApp.kt        start-up: pdfbox resources, font

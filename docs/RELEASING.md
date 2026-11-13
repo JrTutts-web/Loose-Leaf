@@ -14,7 +14,7 @@ needed for the first release.
 
 ## 2. Public repository (once)
 
-The application ID is `io.github.jrtutts.looseleaf`, which by convention means
+The application ID is `io.github.jrtutts_web.looseleaf`, which by convention means
 the code lives at `github.com/JrTutts-web/Loose-Leaf`. Create that repository and
 push. If the code is going to live somewhere else, change the ID **before**
 the first release; it cannot be changed afterwards without users having to
@@ -60,7 +60,7 @@ one is over its size limit.
 ## 6. F-Droid (once, weeks)
 
 F-Droid builds from source. Fork `gitlab.com/fdroid/fdroiddata`, add
-`metadata/io.github.jrtutts.looseleaf.yml` and open a merge request. A
+`metadata/io.github.jrtutts_web.looseleaf.yml` and open a merge request. A
 starting point:
 
 ```yaml

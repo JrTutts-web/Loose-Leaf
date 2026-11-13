@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "io.github.jrtutts.looseleaf"
+    namespace = "io.github.jrtutts_web.looseleaf"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "io.github.jrtutts.looseleaf"
+        applicationId = "io.github.jrtutts_web.looseleaf"
         minSdk = 26
         targetSdk = 35
         versionCode = 1
