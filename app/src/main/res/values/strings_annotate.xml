@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="annotate_title">Annotate</string>
+    <string name="annotate_description">Highlighter, pen, shapes, arrows and white-out boxes.</string>
+    <string name="annotate_highlight">Highlight</string>
+    <string name="annotate_ink">Pen</string>
+    <string name="annotate_whiteout">White-out</string>
+    <string name="annotate_highlight_hint">Drag across what you want to highlight.</string>
+    <string name="annotate_whiteout_hint">Drag over the area to cover. White-out hides what is underneath but does not remove it from the file.</string>
+    <string name="annotate_whiteout_selected">White-out box. Drag it to move, drag a corner to resize.</string>
+    <string name="annotate_two_fingers">Use two fingers to scroll and zoom while drawing.</string>
+    <string name="annotate_width">Width %1$d</string>
+    <string name="annotate_shapes">Shapes</string>
+    <string name="annotate_shape_line">Line</string>
+    <string name="annotate_shape_arrow">Arrow</string>
+    <string name="annotate_shape_rect">Rectangle</string>
+    <string name="annotate_shape_oval">Oval</string>
+</resources>

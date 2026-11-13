@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="sign_title">Signatures</string>
+    <string name="sign_description">Draw or type a signature once, then place it on any page.</string>
+    <string name="sign_tool">Sign</string>
+    <string name="sign_screen_title">Signatures</string>
+    <string name="sign_draw">Draw</string>
+    <string name="sign_type">Type</string>
+    <string name="sign_empty">No saved signatures yet. Draw one with your finger, or type your name and pick a handwriting style.</string>
+    <string name="sign_pick_hint">Tap a signature to place it on the page.</string>
+    <string name="sign_place">Place on page</string>
+    <string name="sign_saved_one">Saved signature</string>
+    <string name="sign_delete">Delete this signature</string>
+    <string name="sign_privacy">Signatures are stored only in this app on this device.</string>
+    <string name="sign_draw_hint">Sign in the box with your finger.</string>
+    <string name="sign_clear">Clear</string>
+    <string name="sign_save_use">Save and use</string>
+    <string name="sign_name_label">Your name</string>
+    <string name="sign_style">Style</string>
+    <string name="sign_sample">Your Name</string>
+    <string name="sign_selected_hint">Drag to move, drag a corner to resize.</string>
+</resources>

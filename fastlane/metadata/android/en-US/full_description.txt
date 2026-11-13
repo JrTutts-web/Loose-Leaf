@@ -1,0 +1,21 @@
+Loose Leaf is a small PDF editor that works entirely on your phone. It has no network permission, no accounts, no ads and no analytics. Your original file is never changed: saving always writes a new copy.
+
+What it does:
+
+* Open PDFs from the file picker, "Open with" or "Share"
+* Highlight, draw with a pen, add lines, arrows, rectangles and ovals, cover things with white-out
+* Add text boxes: size, colour, move, resize
+* Stamp check marks, crosses and today's date onto forms that cannot be filled in directly
+* Draw or type a signature once and place it wherever you need it
+* Fill in PDF forms
+* Redact: black boxes that really remove what they cover from the saved copy
+* Find text and jump to a page
+* Reorder, rotate, delete and extract pages; merge another PDF in
+* Make a smaller copy with a choice of quality levels
+* Save a copy protected with a password
+* Optionally keep everything you save, or just what you signed, in a library folder that you can organise in the app
+* Make scanned pages searchable with offline text recognition (English included; other languages can be added from a file)
+
+If the app is closed before you saved, your edits are still there the next time you open it.
+
+Every feature is a module that can be switched off in Settings, which removes its buttons and menu entries.

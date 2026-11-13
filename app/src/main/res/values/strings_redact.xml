@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="redact_title">Redact</string>
+    <string name="redact_description">Black boxes that really remove what they cover from the saved copy.</string>
+    <string name="redact_tool">Redact</string>
+    <string name="redact_hint">Drag over what must go. To make sure it is really gone, this whole page is saved as a picture, so its text can no longer be selected or searched.</string>
+    <string name="redact_selected">Redaction box. What it covers is left out of the saved copy; the page is saved as a picture.</string>
+</resources>

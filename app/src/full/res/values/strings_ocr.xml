@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="ocr_title">Text recognition (OCR)</string>
+    <string name="ocr_description">Make scanned pages searchable. Runs on this device. English is included; other languages can be added from a file.</string>
+    <string name="ocr_menu">Recognise text</string>
+    <string name="ocr_intro">Reads the text on scanned pages and adds it as an invisible layer, so the saved copy can be searched and its text selected. Pages look exactly the same. Everything happens on this device.</string>
+    <plurals name="ocr_all_pages">
+        <item quantity="one">The whole document (%1$d page)</item>
+        <item quantity="other">All %1$d pages</item>
+    </plurals>
+    <string name="ocr_this_page">Only page %1$d</string>
+    <string name="ocr_skip_text">Skip pages that already have text</string>
+    <string name="ocr_start">Recognise text</string>
+    <string name="ocr_note">Expect a few seconds per page, more with several languages. Save a copy afterwards to keep the text layer.</string>
+    <string name="ocr_languages">Languages on these pages</string>
+    <string name="ocr_lang_add">Add a language from a file</string>
+    <string name="ocr_lang_hint">Other languages are Tesseract language files with names like “deu.traineddata” (the “tessdata_fast” set is small and works well). Loose Leaf has no network access, so download the file with a browser or copy it from a computer, then add it here. Text in Latin, Greek and Cyrillic letters can be saved; other scripts are not supported yet.</string>
+    <string name="ocr_lang_adding">Adding the language…</string>
+    <string name="ocr_lang_added">%1$s added</string>
+    <string name="ocr_lang_bad_name">That is not a language file. Its name must end in “.traineddata”, like “deu.traineddata”.</string>
+    <string name="ocr_lang_bundled">English is already included.</string>
+    <string name="ocr_lang_unreadable">That file could not be read.</string>
+    <string name="ocr_lang_rejected">The text recognition engine could not use that file.</string>
+    <string name="ocr_lang_remove">Remove %1$s</string>
+    <string name="ocr_progress">Reading page %1$d of %2$d…</string>
+    <plurals name="ocr_done">
+        <item quantity="one">Text layer added to %1$d page. Save a copy to keep it.</item>
+        <item quantity="other">Text layer added to %1$d pages. Save a copy to keep it.</item>
+    </plurals>
+    <string name="ocr_all_skipped">These pages already have text, so there was nothing to do.</string>
+    <string name="ocr_nothing">No text was found.</string>
+    <string name="ocr_failed">Text recognition failed: %1$s</string>
+</resources>

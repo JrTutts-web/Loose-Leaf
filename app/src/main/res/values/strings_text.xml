@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="text_title">Text</string>
+    <string name="text_description">Add text boxes on top of the page.</string>
+    <string name="text_tool">Text</string>
+    <string name="text_tap_hint">Tap the page where the text should go.</string>
+    <string name="text_add_title">Add text</string>
+    <string name="text_edit">Edit text</string>
+    <string name="text_placeholder">Type here</string>
+    <string name="text_size">%1$d pt</string>
+    <string name="text_smaller">Smaller text</string>
+    <string name="text_larger">Larger text</string>
+</resources>

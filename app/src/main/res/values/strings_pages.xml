@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pages_title">Pages</string>
+    <string name="pages_description">Thumbnails: reorder, rotate, delete, extract and merge pages.</string>
+    <string name="pages_menu">Pages</string>
+    <string name="pages_hint">Tap pages to select them. Hold and drag a page to move it.</string>
+    <plurals name="pages_selected">
+        <item quantity="one">%1$d selected</item>
+        <item quantity="other">%1$d selected</item>
+    </plurals>
+    <string name="pages_select_all">Select all</string>
+    <string name="pages_select_none">Select none</string>
+    <string name="pages_rotate_left">Rotate left</string>
+    <string name="pages_rotate_right">Rotate right</string>
+    <string name="pages_extract">Extract</string>
+    <string name="pages_add_pdf">Add PDF</string>
+    <string name="pages_adding">Adding pages…</string>
+    <plurals name="pages_added">
+        <item quantity="one">%1$d page added</item>
+        <item quantity="other">%1$d pages added</item>
+    </plurals>
+    <string name="pages_keep_one">A PDF needs at least one page.</string>
+    <string name="pages_extract_title">Extract pages</string>
+    <plurals name="pages_extract_text">
+        <item quantity="one">Save some pages as a new PDF. This document has %1$d page and stays as it is.</item>
+        <item quantity="other">Save some pages as a new PDF. This document has %1$d pages and stays as it is.</item>
+    </plurals>
+    <string name="pages_extract_label">Pages</string>
+    <string name="pages_extract_invalid">Use page numbers from 1 to %1$d, like 1-3, 5</string>
+    <string name="pages_extract_confirm">Extract</string>
+    <string name="pages_extract_name">%1$s-pages-%2$s.pdf</string>
+</resources>

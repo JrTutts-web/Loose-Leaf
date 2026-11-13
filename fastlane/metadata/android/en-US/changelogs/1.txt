@@ -1,0 +1,1 @@
+First version: annotate, shapes, text, stamps, signatures, forms, redaction, find, page tools, compression, password protection and offline text recognition.

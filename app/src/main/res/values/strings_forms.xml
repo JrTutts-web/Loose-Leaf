@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="forms_title">Forms</string>
+    <string name="forms_description">Fill in the fields of fillable PDF forms.</string>
+    <string name="forms_tool">Fill form</string>
+    <string name="forms_hint">Tap a highlighted field to fill it in.</string>
+    <string name="forms_none">This PDF has no fillable form fields. Use Text to write on it instead.</string>
+    <plurals name="forms_found">
+        <item quantity="one">This PDF has %1$d fillable field. Tap “Fill form”.</item>
+        <item quantity="other">This PDF has %1$d fillable fields. Tap “Fill form”.</item>
+    </plurals>
+</resources>

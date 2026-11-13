@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="stamps_title">Stamps</string>
+    <string name="stamps_description">Check marks, crosses and today\'s date, for forms that cannot be filled in directly.</string>
+    <string name="stamps_tool">Stamp</string>
+    <string name="stamps_check">Check mark</string>
+    <string name="stamps_cross">Cross</string>
+    <string name="stamps_date">Today\'s date</string>
+    <string name="stamps_hint">Tap the page to place one. Tap again for the next.</string>
+    <string name="stamps_size">Size %1$d</string>
+    <string name="stamps_smaller">Smaller</string>
+    <string name="stamps_larger">Larger</string>
+</resources>

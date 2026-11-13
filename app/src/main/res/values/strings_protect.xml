@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="protect_title">Password</string>
+    <string name="protect_description">Save a copy that needs a password to open.</string>
+    <string name="protect_menu">Save with a password</string>
+    <string name="protect_text">The copy can only be opened with this password. There is no way to recover it if it is forgotten.</string>
+    <string name="protect_password">Password</string>
+    <string name="protect_repeat">Repeat password</string>
+    <string name="protect_mismatch">The two passwords are not the same.</string>
+    <string name="protect_save">Choose where to save</string>
+    <string name="protect_name">%1$s-protected.pdf</string>
+</resources>

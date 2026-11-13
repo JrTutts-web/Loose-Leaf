@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="compress_title">Compress</string>
+    <string name="compress_description">Save a smaller copy by reducing image quality.</string>
+    <string name="compress_menu">Compress</string>
+    <string name="compress_intro">Makes a smaller copy by shrinking the pictures inside the PDF. Text stays sharp. The document you are editing is not changed.</string>
+    <string name="compress_light">Light</string>
+    <string name="compress_light_text">Best quality. Good for printing.</string>
+    <string name="compress_balanced">Balanced</string>
+    <string name="compress_balanced_text">Smaller, still easy to read on screen.</string>
+    <string name="compress_strong">Strong</string>
+    <string name="compress_strong_text">Smallest file. Pictures and scans look noticeably rougher.</string>
+    <string name="compress_start">Compress</string>
+    <string name="compress_working">Compressing…</string>
+    <string name="compress_failed">Could not compress: %1$s</string>
+    <string name="compress_before">Before</string>
+    <string name="compress_after">After</string>
+    <plurals name="compress_saved">
+        <item quantity="one">%1$d%% smaller. %2$d image was re-encoded.</item>
+        <item quantity="other">%1$d%% smaller. %2$d images were re-encoded.</item>
+    </plurals>
+    <string name="compress_nothing">Nothing to shrink: this PDF has no pictures that would get smaller at this level.</string>
+    <string name="compress_no_gain">This level does not make the file smaller. Try a stronger one.</string>
+    <string name="compress_save">Save compressed copy</string>
+    <string name="compress_name">%1$s-compressed.pdf</string>
+</resources>

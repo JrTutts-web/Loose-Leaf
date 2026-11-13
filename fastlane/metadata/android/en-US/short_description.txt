@@ -1,0 +1,1 @@
+Small offline PDF editor: annotate, sign, fill forms, arrange pages
